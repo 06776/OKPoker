@@ -1,7 +1,8 @@
 /*
  * File: App.java
- * Author: Hajdara Patrik
- * Copyright: 2023, Hajdara Patrik
+ * Author: Nagy János
+ * Copyright: 2023, Nagy János
+ * Refactor: Hajdara Patrik
  * Date: 2023-11-29
  * Licenc: MIT
  * Az esetlegesen elofordulo hibakert nem all modomban felelosseget vallalni
